@@ -17,12 +17,12 @@ KACHOW
 </div>
 
 > [!NOTE]
-> i update this shi like every day homie
+> i update this shi like every day homie, theres always something new
 
--   exploits and history flooder
--   small, fun things
--   300+ game library
--   JS console
--   mini browser
--   yootoob embedder
--   scripts that improve your quality of life on my amazing client
+-   exploits and history flooder for funsies and laughs
+-   added features and easter eggs so you dont miss out on what you could have with gobba axle
+-   300+ game library of a huge variety (implied, i just need extra text)
+-   js console for if youre an actual epik haker, for which i would be jealous
+-   pocket browser for browsing in yo pocket i guess... 
+-   yootoob embedder. tired of watching youtube videos like a normal person? try this random crap instead!
+-   scripts with the added bonus of making you feel like an epik haker man
